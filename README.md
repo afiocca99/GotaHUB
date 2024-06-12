@@ -15,8 +15,7 @@ A 3d printed shower attachment with a hose designed to catch cold water at the b
  -BOTTLE CAP with Inner Thread & Outer Grip by langgeng wahyu hidayat
  <https://grabcad.com/library/bottle-cap-with-inner-thread-outer-grip-1>
  
- The hose we used:
- 
+ -The hose we used
  <https://serveiestacio.com/es/manguera-politheno-asp-25-gris-13775.html>
  
 
