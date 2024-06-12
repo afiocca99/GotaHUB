@@ -2,7 +2,7 @@
 An open-source project that creates a link between hotels and community gardens in the city of Barcelona to provide water for irrigation.
 Using the **GotaKit** hotel guests can learn about Catalunia's drought and save shower water.
 In the repository, you can find all the files to print your kit and start saving some water!
-
+/../main/PICTURES/GotaHUB_1
 ## GotaKit
  ### GotaShower
 A 3d printed shower attachment with a hose designed to catch cold water at the beginning of showers and collect it into an upcycled 8L water bottle.
