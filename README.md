@@ -1,6 +1,6 @@
 # GotaHUB
 An open-source project that creates a link between hotels and community gardens in the city of Barcelona to provide water for irrigation.
-Using the **Gotakit** hotel guests can learn about Catalunia's drought and save shower water.
+Using the **GotaKit** hotel guests can learn about Catalunia's drought and save shower water.
 In the repository, you can find all the files to print your kit and start saving some water!
 
 ## GotaKit
