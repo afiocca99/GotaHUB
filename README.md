@@ -15,4 +15,4 @@ A 3d printed shower attachment with a hose designed to catch cold water at the b
 A 3d printed attachment for 8L water bottles to use as watering cans.
 
 ### GotaBrochure
-An A4 brochure designed to spread awareness about drought and the project aims to tourists.
+An A4 brochure designed to spread awareness about drought and explain the project aims to tourists.
